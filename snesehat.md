@@ -16,3 +16,8 @@ The SenseHAT is packed full of sensors, including:
 
 There is also a small joystick on the SenseHAT, and a large 8×8 RGB LED matrix.
 
+The SenseHAT is added to the Raspberry Pi using the rows of GPIO pins. Simply place the SenseHAT onto the Raspberry Pi, making sure the pins allign.
+
+**GIF OF ASSEMBLY HERE**
+
+If you have a SenseHAT then our [Getting Started with the SenseHAT](https://www.raspberrypi.org/learning/getting-started-with-the-sense-hat/) guide is the best place to start. There are also resoucres showing you how to make [a reaction timer game in Scratch](https://www.raspberrypi.org/learning/astronaut-reaction-times/), a [marble maze in Python](https://www.raspberrypi.org/learning/sense-hat-marble-maze/) and crazy [random sparkles](https://www.raspberrypi.org/learning/sense-hat-random-sparkles/), as well as many more.

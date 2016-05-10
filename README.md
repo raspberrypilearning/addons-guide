@@ -2,11 +2,7 @@
 
 ![](cover.png)
 
-Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
-
-By following this tutorial you will learn:
-
-- What equipment you will need and how to set up your Raspberry Pi
+This resource covers the official accessories that are made for the Raspberry Pi
 
 ## Licence
 
@@ -16,4 +12,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ***Quick Start Guide*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/raspberrypilearning/help-hardware-setup
+Based on a work at https://github.com/raspberrypilearning/help-extras-setup

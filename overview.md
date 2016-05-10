@@ -1,6 +1,7 @@
-Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
+One of the fantastic features of the Raspberry Pi is the ability to combine it with various accessories that enable you to extend it's features and create a significantly more useful device. While there are pleanty of addon boards, known as HATs (**H**ardware **A**ttached on **T**op) and other accessories, made by various companies and enterprising individuals, this guide will highlight those official accessories produced for the Raspberry Pi.
 
-- [Quick start](quickstart.md)
-- [Networking your Raspberry Pi](networking.md)
-- [Adding extra storage](storage.md)
-- [Adding audio output](audio.md)
+- [The Pi Camera](picamera.md)
+- [The SenseHAT](sensehat.md)
+- [The Display](display.md)
+- [The Case](case.md)
+

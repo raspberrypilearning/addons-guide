@@ -1,6 +1,6 @@
 # The Raspberry Pi Display
 
-The Raspberry Pi Display is a 7 inch touch screen display, designed to work with the Raspberry Pi.
+The Raspberry Pi Display is a 7-inch touch screen display, designed to work with the Raspberry Pi.
 You can purchase a Raspberry Pi from [CPC](http://cpc.farnell.com/raspberry-pi/raspberrypi-display/raspberry-pi-touchscreen-display/dp/SC13858) and [RS Components](http://uk.rs-online.com/web/p/graphics-display-development-kits/8997466/).
 
 The display has the following features:

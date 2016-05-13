@@ -27,4 +27,4 @@ If you have purchased a display, then attaching it to your Raspberry Pi is fairl
 
 	![](images/display-assemble4.jpg)
 	
-You can use the touch screen interface of the display to operate your Raspberry Pi, if you like, although the desktop is not designed to be used with touch devices. However, with the power of Kivy, you can make your own applications in [Python that utilise the multitouch features of the display](https://www.youtube.com/watch?v=Eah3Zq18OyM).
+You can use the touch screen interface of the display to operate your Raspberry Pi, if you like, although the desktop is not designed to be used with touch devices. However, with the power of Kivy, you can make your own applications in [Python that utilise the multi-touch features of the display](https://www.youtube.com/watch?v=Eah3Zq18OyM).

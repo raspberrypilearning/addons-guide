@@ -4,9 +4,9 @@ The new 8-megapixel Pi Camera comes in two varieties. A standard visible light c
 
 ![](images/camera.jpg)
 
-You can purchase both cameras from either [RS Components](http://uk.rs-online.com/web/c/computing-peripherals/embedded-systems/video-modules/?searchTerm=p-semis-l1-p5-0516_uk&searchType=Offers&h=s&sra=oss&redirect-relevancy-data=77633D4E4F4E4526) or [element 14](https://www.element14.com/community/community/raspberry-pi/raspberry-pi-accessories/raspberry-pi-camera-board)
+You can purchase both cameras from either [RS Components](http://uk.rs-online.com/web/c/computing-peripherals/embedded-systems/video-modules/?searchTerm=p-semis-l1-p5-0516_uk&searchType=Offers&h=s&sra=oss&redirect-relevancy-data=77633D4E4F4E4526) or [element 14](https://www.element14.com/community/community/raspberry-pi/raspberry-pi-accessories/raspberry-pi-camera-board).
 
-The Pi Camera is capable of taking both still pictures, up to a resolution of 3280 x 2464 pixels, and of taking video up to 1080p at 30fps.
+The Pi Camera is capable of taking still pictures, up to a resolution of 3280 x 2464 pixels, and video up to 1080p at 30fps.
 
 The camera board attaches to the Raspberry Pi using a CSI flat ribbon cable, which comes with the camera when purchased. It can then be attached to the CSI port on the Raspberry Pi, as shown below.
 
@@ -20,7 +20,7 @@ Then click on the radio button to enable the camera.
 
 ![](images/enabled.png)
 
-You can then use the camera from the terminal to take photos and videos
+You can then activate the camera from the terminal to take photos and videos using:
 
 ``` bash
 raspistill -o cam.jpg

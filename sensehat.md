@@ -17,4 +17,7 @@ There is also a small joystick on the Sense HAT, and a large 8×8 RGB LED matrix
 
 The Sense HAT is added to the Raspberry Pi using the rows of GPIO pins. Simply place the Sense HAT onto the Raspberry Pi, making sure the pins align.
 
+![Fitting the Sense HAT](images/animated_sense_hat.gif)
+
+
 If you have a Sense HAT then our [Getting started with the Sense  HAT](https://www.raspberrypi.org/learning/getting-started-with-the-sense-hat/) guide is the best place to start. There are also resources showing you how to make [a reaction timer game in Scratch](https://www.raspberrypi.org/learning/astronaut-reaction-times/), a [marble maze in Python](https://www.raspberrypi.org/learning/sense-hat-marble-maze/), and crazy [random sparkles](https://www.raspberrypi.org/learning/sense-hat-random-sparkles/), and many more.

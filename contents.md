@@ -1,4 +1,4 @@
-- [The Pi camera](picamera.md)
+- [The Pi camera module](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
 - [The Sense HAT](sensehat.md)
 - [The display](display.md)
 - [The case](case.md)
